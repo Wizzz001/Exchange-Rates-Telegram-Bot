@@ -3,14 +3,13 @@ Python телеграм бот показывающий курс валют.
 
 Необходимые pip библиотеки:
 
-pyTelegramBotAPI
-
-DateTime
-
+pyTelegramBotAPI,
+DateTime,
 Requests
+
 
 
 Запуск:
 
-Создать своего бота в BotFather, скопировать токен и вставить в коде вместо 'Your bot token'.
+Создать своего бота в BotFather, скопировать полученый токен и вставить в коде вместо 'Your bot token'.
 Комбинации валют usd_rur в api запросе можно менять на другие.
